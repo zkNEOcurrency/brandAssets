@@ -3,7 +3,7 @@
   "symbol": "zkNEO",
   "image": "https://github.com/zkNEOcurrency/brandAssets/blob/main/logo/zkneo_coin_256px.png?raw=true",
   "decimals": 9,
-  "description": "A digital currency on Solana with confidential transactions enabled through zero-knowledge proofs.",
+  "description": "Digital currency with confidential transactions enabled through zero-knowledge proofs.",
   "properties": {
     "category": "SPL Token",
     "tags": ["confidential", "zk"],
