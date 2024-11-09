@@ -6,6 +6,7 @@
   "description": "A digital currency on Solana with confidential transactions enabled through zero-knowledge proofs.",
   "properties": {
     "category": "SPL Token",
-    "tags": ["confidential", "zk"]
+    "tags": ["confidential", "zk"],
+    "website": "https://zkneo.net"
   }
 }
